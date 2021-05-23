@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'SPBorderView_Example' do
+  pod 'SPBorderView', :path => '../'
+
+  target 'SPBorderView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
