@@ -1,0 +1,16 @@
+PODS:
+  - SPBorderView (0.1.0)
+
+DEPENDENCIES:
+  - SPBorderView (from `../`)
+
+EXTERNAL SOURCES:
+  SPBorderView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SPBorderView: 172e4bb3a8bad043c7e2e514460740d942f8dd43
+
+PODFILE CHECKSUM: 4ac95f642def5c3c592695b0c86075dddbd1c0de
+
+COCOAPODS: 1.10.1

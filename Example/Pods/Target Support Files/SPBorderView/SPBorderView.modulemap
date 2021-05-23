@@ -1,0 +1,6 @@
+framework module SPBorderView {
+  umbrella header "SPBorderView-umbrella.h"
+
+  export *
+  module * { export * }
+}
