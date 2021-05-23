@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
 
   s.description      = <<-DESC
   "This pod created to make view circular easily by calling single function."
-                             DESC 
+                             "DESC"
 
   s.homepage         = 'https://github.com/sarvesh567/SPBorderView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
